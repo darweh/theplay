@@ -1,5 +1,6 @@
 # test8
-sync with command line ?
-Split between git/standard commandline.
+sync with command line
+Using git/standard commandline.
 Check the explore feature.
-Doing learning-lab
+Learning-lab
+Add label ?
