@@ -1,10 +1,12 @@
-# Twitter with a picture
+# Chat with a picture
 Web Application for chat,keeping notes,etc.
 Has a click2call feature.
 Mobile first design.
 Has a administration page 
 for database management,
 search/update with web browser access.
-All symantic html, no div's
-Working model @ link above.
+Built using Php,Html,Css,Mysql
+Upgrading proceedural to OO.
+Reconfigure connection to PDO.
+Working model @ link on account.
 Administration page by request.
