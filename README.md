@@ -1,4 +1,4 @@
-# Notes and a picture
+# Note with a picture
 Web Application for chat,keeping notes,etc.
 Has a click2call feature.
 Mobile first design.
