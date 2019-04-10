@@ -98,10 +98,11 @@ border-bottom-left-radius: 5px;
 h1
 {
 border:solid blue 1px;
-width:60%;
+height: 50px;
+width:50%;
 font-family: "android_7";
 color:blue;
-font-size: 1.2em;
+font-size: 3.2em;
 padding: 5px;
 margin: 5px 5px 5px 0px;
 }
@@ -115,9 +116,9 @@ nav
 /*z-index:3;*/
 border:solid blue 1px;
 float:right;
-display: inline;
+display: inline-block;
 /*position:relative;*/
-width: auto;
+width: 30%;
 /*margin: -40px 5px 10px 5px;*/
 padding:5px;
 }
