@@ -9,4 +9,3 @@ Built using Php,Html,Css,Mysql
 Upgrading proceedural to OO.
 Reconfigure connection to PDO.
 Working model @ link on account.
-Administration page by request.
