@@ -1,4 +1,4 @@
-.cover_image
+/*.cover_image
 {
   left: 0px;
   top: 0px;
@@ -6,76 +6,52 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-/*
-.cover_pic
+}*/
+.cover_image
 {
 position: absolute;
-height: auto;
+height: 600px;
 width:100%;
 left: 0px;
 top: 0px;
-z-index: 1;
+z-index: -1;
 }*/
 
-@font-face 
+nav
 {
-font-family: "android_7";
-src: url("/application/font/android_7.ttf");
-}
-
-.cover_header nav
-{
-/*z-index:4;*/
-border:solid red 1px;
+z-index:1;
+border:solid blue 1px;
 float:right;
-display: inline;
+display: inline-block;
 position: relative;
-width: auto;
+width: 30%;
 margin: 0px;
 padding:5px;
 }
-.cover_header h1                                          
+h1                                          
 {
-z-index:3;
+display: inline-block;
+z-index:1;
 position:relative;
-font-family: "android_7";
-border:solid red 1px;   
+border:solid blue 1px;   
 text-align: left;    
 color:blue;  
 font-size: 30px;
-width: 70%;
-height:45px;
+width: 50%;
+height:50px;
 padding: 0px;                           
 margin-left: 0px;                                  
 }
 
 header
 {
-/*position: relative;*/
+position: relative;
 border:solid blue 1px;
 background-color: transparent;
 margin: 5px;
 padding: 5px;
 height: 50px;
 }
-
-.cover_header
-{
-position: relative;
-border:solid black 1px;
-background-color: transparent;
-margin: 5px;
-padding: 5px;
-height: 50px;
-width:auto;
-z-index:3;
-}
-
-
-
-
-
 .btn
 {
 background:red;
@@ -95,30 +71,8 @@ border-bottom-left-radius: 5px;*/
 border-radius: 50%;
 }
 
-h1
-{
-border:solid blue 1px;
-font-family: "android_7";
-color:blue;
-font-size: 1.2em;
-padding: 5px;
-margin: 5px 5px 5px 0px;
-}
-
 h2{
 text-align: center;
-}
-
-nav
-{
-/*z-index:3;*/
-border:solid blue 1px;
-float:right;
-display: inline;
-/*position:relative;*/
-width: auto;
-/*margin: -40px 5px 10px 5px;*/
-padding:5px;
 }
 
 ul
