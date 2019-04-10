@@ -1,5 +1,5 @@
 # Picture with a note
-Web Application for chat,keeping notes,etc.
+Web Application for chat, keeping notes, etc.
 Has a click2call feature.
 Mobile first design.
 Has a administration page 
