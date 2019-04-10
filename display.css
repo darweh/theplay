@@ -58,7 +58,7 @@ margin-left: 0px;
 header
 {
 /*position: relative;*/
-border:solid black 1px;
+border:solid blue 1px;
 background-color: transparent;
 margin: 5px;
 padding: 5px;
@@ -100,7 +100,7 @@ h1
 border:solid blue 1px;
 height: 50px;
 width:50%;
-color:black;
+color:blue;
 text-size: 4.0em;
 padding: 5px;
 margin: 5px 5px 5px 0px;
@@ -112,7 +112,7 @@ text-align: center;
 
 nav
 {
-border:solid black 1px;
+border:solid blue 1px;
 float:right;
 display: inline-block;
 /*position:relative;*/
