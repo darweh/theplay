@@ -1,0 +1,73 @@
+.cover_image
+{
+position: absolute;
+height: 600px;
+width:100%;
+left: 0px;
+top: 0px;
+z-index: -1;
+}
+header
+{
+position: relative;
+border:solid blue 1px;
+background-color: transparent;
+margin: 5px;
+padding: 5px;
+height: 100px;
+width:auto;
+z-index:1;
+}
+
+
+.btn
+{
+background:red;
+color:white;
+text-size:5px;
+text-decoration:none;
+width: 60px;
+height:20px;
+padding-top:2px;
+/*margin: 5px 5px 5px 0px;*/
+}
+
+h1
+{
+display:inline-block;
+z-index:1;
+width:auto;
+height:30px;
+border:solid blue 1px;
+font-family: "android_7";
+color:white;
+text-size: 2.2em;
+padding: 5px;
+/*margin: 5px 5px 5px 0px;*/
+bottom:10px;
+}
+nav
+{
+left:5px;
+bottom:10px;
+z-index:1;
+border:solid blue 1px;
+/*float:right;*/
+display: inline-block;
+position:relative;
+width: auto;
+height:30px;
+padding:5px;
+/*margin: 5px 5px 20px 0px;*/
+}
+
+ul
+{
+font-size: 12px;
+width: auto;
+margin:2px;
+padding: 2px;
+text-align: center;
+text-decoration: none;
+list-style-type: none;
+}
