@@ -9,14 +9,14 @@ body, html {
   /* Full height */
   height: 100%;
   
-  position:absolute;
+ /* position:absolute;*/
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-/*.cover_pic
+.cover_pic
 {
 position: absolute;
 height: 100%;
@@ -24,7 +24,7 @@ width:100%;
 left: 0px;
 top: 0px;
 z-index: 2;
-}*/
+}
 @font-face 
 {
 font-family: "android_7";
